@@ -118,9 +118,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
   }
 }
 
-// -----------------------------------------------------------------------------
-// 2. KONTEN HALAMAN UTAMA (HOME)
-// -----------------------------------------------------------------------------
+
 class OvoHomePageContent extends StatelessWidget {
   const OvoHomePageContent({Key? key}) : super(key: key);
 
@@ -403,9 +401,7 @@ class OvoHomePageContent extends StatelessWidget {
   }
 }
 
-// -----------------------------------------------------------------------------
-// 3. HALAMAN PROFIL (NAMA: ALFONSO)
-// -----------------------------------------------------------------------------
+
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({Key? key}) : super(key: key);
 
